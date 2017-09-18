@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Blorgh::VERSION
   s.authors     = ["Mirv"]
   s.email       = ["reski.raptor@gmail.com"]
-  s.homepage    = "TESTING"
-  s.summary     = "TESTING: Summary of Blorgh."
-  s.description = "TESTING: Description of Blorgh."
+  s.homepage    = "https://github.com/Mirv/rails-engine-test"
+  s.summary     = "TEST: Summary of Blorgh."
+  s.description = "TEST: Description of Blorgh."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]

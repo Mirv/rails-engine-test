@@ -13,4 +13,3 @@ module Dummy
   end
 end
 
-
